@@ -1,5 +1,5 @@
 # 💫 About Me:
-⌨️ I’m currently working on Business Central<br>💼 I’m looking for help with ERP Developers<br>🎓 I’m currently learning ASP.NET<br>💬 Ask me about any thing<br>⚡ Fun fact I am Crazy But Smart<br>
+⌨️ Technical Consultant <br>💼 I’m looking for help with ERP Developers<br>🎓 I’m currently learning power apps<br>💬 Ask me about any thing<br>⚡ Fun fact I am Crazy But Smart<br>
 
 
 ## 🌐 Socials:
