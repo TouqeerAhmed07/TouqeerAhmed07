@@ -1,8 +1,6 @@
 # 💫 About Me:
-⌨️ Technical Consultant <br>💼 I’m looking for help with ERP Developers<br>🎓 I’m currently learning power apps<br>💬 Ask me about any thing<br>⚡ Fun fact I am Crazy But Smart<br>
+⌨️ Technical Consultant <br>💼 I’m looking for help with ERP Developers<br>🎓 I’m currently learning power apps<br>💬 Ask me about any thing<br>
 
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TouqeerAhmed07/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TouqeerAhmed07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/touqeer-ahmed-/) 
 
 # 💻 Tech Stack:
